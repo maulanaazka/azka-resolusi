@@ -2,7 +2,6 @@ rencana webdev
 
 - belajar frontend
   * ui
-  * ux
 - belajar tools web dev
 - improve
  * belajar bahasa lain

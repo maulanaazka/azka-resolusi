@@ -5,3 +5,4 @@ rencana webdev
   * ux
 - belajar tools web dev
 - improve
+- cari networks

@@ -5,4 +5,5 @@ rencana webdev
   * ux
 - belajar tools web dev
 - improve
+ * belajar bahasa lain
 - cari networks

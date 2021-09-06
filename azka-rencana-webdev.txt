@@ -7,3 +7,4 @@ rencana webdev
 - improve
  * belajar bahasa lain
 - cari networks
+- belajar devops

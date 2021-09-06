@@ -4,5 +4,6 @@ rencana webdev
   * ui
 - belajar tools web dev
 - improve
-- belajar db lain
+ * belajar bahasa lain
 - cari networks
+- belajar devops
